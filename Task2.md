@@ -1,0 +1,1 @@
+TYPHOID DIAGNOSIS APP: An Android app that automates Typhoid diagnosis
